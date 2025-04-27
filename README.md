@@ -66,11 +66,14 @@ assign B=~a&b;
 endmodule
 ```
 **RTL Schematic Output**
+
 ![Screenshot 2025-04-27 143355](https://github.com/user-attachments/assets/6cdd38bd-e8d7-4b33-91f5-c6b7db10d8f8)
 
 
 **TIMING Waveform**
+
 ![Screenshot 2025-04-27 143321](https://github.com/user-attachments/assets/204b3240-9fa4-444d-83fd-f75fb1c08af7)
 
 **Result:**
+
 Half adder and half subtractor circuit and verify its truth table in Quartus using Verilog programming.
